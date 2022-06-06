@@ -3,6 +3,6 @@
 ### Hello there! 👋
 
 I'm a software engineer & web developer from Heidelberg  
-Currently working for contagt 📍
+Currently working for Intelli Shop 📍
 
 Check out my stuff on https://skyraptor.eu/portfolio
