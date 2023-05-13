@@ -3,6 +3,5 @@
 ### Hello there! 👋
 
 I'm a software engineer & web developer from Heidelberg  
-Currently working for Online Akademie 🎓
 
 Check out my stuff on https://skyraptor.eu/portfolio
