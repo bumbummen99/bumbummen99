@@ -2,6 +2,6 @@
 
 ### Hello there! 👋
 
-I'm a software engineer & web developer from Heidelberg  
+Hey! I'm Patrick, a software engineer from Heidelberg :de:
 
-Check out my stuff on https://skyraptor.eu/portfolio
+Take a look at my portfolio at https://skyraptor.eu/portfolio
