@@ -1,4 +1,4 @@
-<img src="https://skyraptor.eu/images/logo/skyraptor-color-logo.svg" align="right" width="50%"/>
+<img src="https://skyraptor.eu/images/logo/skyraptor-color-logo.svg?v2" align="right" width="50%"/>
 
 ## Hello there! 👋
 Hey! I'm Patrick, a software engineer from Heidelberg :de:
