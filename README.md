@@ -5,7 +5,7 @@ Hey! I'm Patrick, a software engineer from Heidelberg :de:
 
 ### Information
 🏠 My homepage: https://skyraptor.eu  
-💼 My curriculum vitae: [CV](https://skyraptor.eu/cv) 
+💼 My curriculum vitae: [CV](https://skyraptor.eu/cv)  
 🗂️ My work: [Portfolio](https://skyraptor.eu/portfolio)
 
 ### Socials
