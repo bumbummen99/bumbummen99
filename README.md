@@ -3,9 +3,10 @@
 ## Hello there! 👋
 Hey! I'm Patrick, a software engineer from Heidelberg :de:
 
-Take a look at my homepage at https://skyraptor.eu  
-You can find my portfolio at https://skyraptor.eu/portfolio
+### Information
+🏠 My homepage: https://skyraptor.eu  
+💼 My curriculum vitae: [CV](https://skyraptor.eu/cv) 
+🗂️ My work: [Portfolio](https://skyraptor.eu/portfolio)
 
-
-
-
+### Socials
+📸 My photography: [flickr](https://www.flickr.com/people/203547663@N07/)
